@@ -864,6 +864,11 @@
       "utc_time": "2026-03-21T22:41:22.180996709Z"
     },
     {
+      "version": "1.0.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:49:21.487960499Z"
+    },
+    {
       "version": "1.0.2",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:48:01.493421824Z"
@@ -907,6 +912,11 @@
       "version": "1.0.2",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:41:22.329477145Z"
+    },
+    {
+      "version": "1.0.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:49:21.608244731Z"
     },
     {
       "version": "1.0.1",
@@ -954,6 +964,11 @@
       "utc_time": "2026-03-21T22:41:22.28437461Z"
     },
     {
+      "version": "1.0.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:49:21.612472305Z"
+    },
+    {
       "version": "1.0.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:48:01.761200292Z"
@@ -997,6 +1012,11 @@
       "version": "1.0.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:41:22.225438069Z"
+    },
+    {
+      "version": "1.0.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:49:21.62757698Z"
     },
     {
       "version": "0.2.0",
@@ -1044,6 +1064,11 @@
       "utc_time": "2026-03-21T22:41:22.237790694Z"
     },
     {
+      "version": "0.2.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:49:21.656163591Z"
+    },
+    {
       "version": "0.1.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:48:01.377228829Z"
@@ -1087,6 +1112,11 @@
       "version": "0.1.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:41:22.276984191Z"
+    },
+    {
+      "version": "0.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:49:21.534702716Z"
     }
   ]
 }
