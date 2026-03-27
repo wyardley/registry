@@ -503,6 +503,11 @@
       "utc_time": "2026-03-21T22:40:39.245613541Z"
     },
     {
+      "version": "0.0.10",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:48:54.027700061Z"
+    },
+    {
       "version": "0.0.8",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:46:49.170840381Z"
@@ -546,6 +551,11 @@
       "version": "0.0.8",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:40:39.243477233Z"
+    },
+    {
+      "version": "0.0.8",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:48:54.001453139Z"
     },
     {
       "version": "0.0.7",
@@ -593,6 +603,11 @@
       "utc_time": "2026-03-21T22:40:39.26350304Z"
     },
     {
+      "version": "0.0.7",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:48:54.184431894Z"
+    },
+    {
       "version": "0.0.5",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:46:49.230838298Z"
@@ -636,6 +651,11 @@
       "version": "0.0.5",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:40:39.275260789Z"
+    },
+    {
+      "version": "0.0.5",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:48:54.136867412Z"
     },
     {
       "version": "0.0.3",
@@ -683,6 +703,11 @@
       "utc_time": "2026-03-21T22:40:39.228534137Z"
     },
     {
+      "version": "0.0.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:48:54.080174659Z"
+    },
+    {
       "version": "0.0.2",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:46:49.209570811Z"
@@ -728,6 +753,11 @@
       "utc_time": "2026-03-21T22:40:39.188458815Z"
     },
     {
+      "version": "0.0.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:48:54.068655581Z"
+    },
+    {
       "version": "0.0.1",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:46:49.109101162Z"
@@ -771,6 +801,11 @@
       "version": "0.0.1",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:40:39.196540182Z"
+    },
+    {
+      "version": "0.0.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:48:54.033666328Z"
     }
   ]
 }
