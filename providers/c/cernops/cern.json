@@ -1816,6 +1816,11 @@
       "utc_time": "2026-03-21T22:42:07.660014316Z"
     },
     {
+      "version": "2.1.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:52:40.222879104Z"
+    },
+    {
       "version": "2.1.1",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:48:49.681499409Z"
@@ -1859,6 +1864,11 @@
       "version": "2.1.1",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:42:10.000995734Z"
+    },
+    {
+      "version": "2.1.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:52:40.406316998Z"
     },
     {
       "version": "2.1.0",
@@ -1906,6 +1916,11 @@
       "utc_time": "2026-03-21T22:42:09.889778302Z"
     },
     {
+      "version": "2.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:52:40.344326837Z"
+    },
+    {
       "version": "2.0.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:48:50.725670272Z"
@@ -1949,6 +1964,11 @@
       "version": "2.0.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:42:10.292882979Z"
+    },
+    {
+      "version": "2.0.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:52:40.865817033Z"
     },
     {
       "version": "1.1.0",
@@ -1996,6 +2016,11 @@
       "utc_time": "2026-03-21T22:42:09.813912755Z"
     },
     {
+      "version": "1.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:52:40.304590631Z"
+    },
+    {
       "version": "1.0.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-16T12:48:49.542221917Z"
@@ -2039,6 +2064,11 @@
       "version": "1.0.0",
       "message": "checksums not found in release",
       "utc_time": "2026-03-21T22:42:09.805163753Z"
+    },
+    {
+      "version": "1.0.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-27T06:52:40.345592308Z"
     }
   ]
 }
